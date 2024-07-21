@@ -2,7 +2,18 @@
 
 For the backend, we utilized .NET Framework 4.8 with C# for robust development, integrating Entity Framework for efficient database access. JSON Web Tokens were implemented for secure endpoint authorization, ensuring data integrity and user privacy. Meanwhile, the frontend UI has been successfully crafted, providing a seamless user experience. Overall, these technologies come together to deliver a powerful, secure, and user-friendly application
 
-#please refer the screenshoot and video for the app.
+##please refer the screenshoot and video for the app.
+<img width="960" alt="1" src="https://github.com/user-attachments/assets/8ab1ee11-7cd3-4baf-bb69-497d04087c68">
+<img width="952" alt="2" src="https://github.com/user-attachments/assets/31efdfc2-1b57-456d-9ad2-ae677d5f24fd">
+
+<img width="936" alt="3" src="https://github.com/user-attachments/assets/11fe853c-e38f-4c81-a124-de6a155f7b1e">
+<img width="920" alt="4" src="https://github.com/user-attachments/assets/182a3f0e-bb0c-480d-93e5-87c38ab995e6">
+<img width="922" alt="5" src="https://github.com/user-attachments/assets/2f535b09-7271-448d-be00-000d7eb09f42">
+
+<img width="950" alt="6" src="https://github.com/user-attachments/assets/f6c2e2e1-b4ad-4511-9662-aff4a6318cbc">
+<img width="947" alt="7" src="https://github.com/user-attachments/assets/3f83ec69-ef61-40f1-b5cb-627e09d33716">
+<img width="941" alt="8" src="https://github.com/user-attachments/assets/d2ff0e38-ad3e-46d1-9271-75d7161260d4">
+<img width="890" alt="9" src="https://github.com/user-attachments/assets/4b0aee5c-83dc-48d0-9b1e-be6a859d35a6">
 
 ## Setup Instructions
 
