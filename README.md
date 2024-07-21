@@ -2,6 +2,8 @@
 
 For the backend, we utilized .NET Framework 4.8 with C# for robust development, integrating Entity Framework for efficient database access. JSON Web Tokens were implemented for secure endpoint authorization, ensuring data integrity and user privacy. Meanwhile, the frontend UI has been successfully crafted, providing a seamless user experience. Overall, these technologies come together to deliver a powerful, secure, and user-friendly application
 
+#please refer the screenshoot and video for the app.
+
 ## Setup Instructions
 
 ### Prerequisites
